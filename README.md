@@ -3,4 +3,4 @@
 PEMDAS
 - Parentheses, Exponents
 - Multiplication, Division
-- Addition, Sub
+- Addition, Subtraction
