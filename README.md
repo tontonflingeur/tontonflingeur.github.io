@@ -15,3 +15,11 @@ PEMDAS
 ; x = 1
 
 ; If x = 1 and x = 0.999..., therefore 1 = 0.999...
+
+6/2(1+3)=x ;
+6/2(4)=x ;
+6/2x4=x ;
+3x4=x ;
+12=x ;
+
+Simplify 
